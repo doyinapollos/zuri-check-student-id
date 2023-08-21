@@ -190,6 +190,20 @@
   position: relative;
   bottom: 7px;
   font-size: 16px;
+  display: flex;
+  flex-direction: row;
+}
+
+#arrow-forward {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  font-size: 13px;
+  margin: 3px 0 0 3px;
+}
+
+.section-2-div-2-box-a:hover #arrow-forward {
+  display: block;
 }
 
 .section-2-div-2-box-b {
