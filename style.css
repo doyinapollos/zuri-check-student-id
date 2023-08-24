@@ -28,6 +28,11 @@ nav {
   color: #fff;
 }
 
+.nav-1 a {
+  text-decoration: none;
+  color: #fff;
+}
+
 .nav-2 {
   width: 20%;
   height: 100%;
