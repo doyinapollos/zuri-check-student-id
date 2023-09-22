@@ -5,6 +5,7 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  margin-top: 50px;
 }
 
 .section-1 {
@@ -64,7 +65,7 @@ h1 {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background-color: #007095;
+  background-color: #ffa500;
   margin: 10px 0 0 20px;
   color: #fff;
   font-size: 18px;
@@ -93,7 +94,7 @@ h1 {
   align-items: center;
   background-color: #007095;
   margin: 0 0 10px 16px;
-  color: #fff;
+  color: #000;
   font-size: 18px;
   font-weight: 700;
 }

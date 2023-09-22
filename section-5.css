@@ -1,6 +1,6 @@
 #section-5 {
   width: 100%;
-  height: 360px;
+  height: 650px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -9,12 +9,49 @@
 
 .section-5-div {
   width: 80%;
-  height: 90%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  background-color: #f2f2f2;
+  background-color: #d9fcc5;
   border: 1px solid #d8d8d8;
   font-size: 18px;
+  color: #54b137;
+}
+
+.section-5-div-1 {
+  width: 80%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-start;
+  align-items: center;
+  background-color: #fff;
+}
+
+.section-5-div-1-1 {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  background-color: #b4f7a0;
+}
+
+.section-5-div-1-1-span {
+  margin-left: 20px;
+}
+
+.section-5-div-1-2 {
+  width: 95%;
+  height: 17%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid #d8d8d8;
+  color: #000;
 }
